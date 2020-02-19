@@ -1,0 +1,264 @@
+{
+    "words": [
+        {
+            "endTime": "1.600s",
+            "startTime": "0.100s",
+            "word": "a"
+        },
+        {
+            "endTime": "2s",
+            "startTime": "1.600s",
+            "word": "b"
+        },
+        {
+            "endTime": "2.800s",
+            "startTime": "2s",
+            "word": "c"
+        },
+        {
+            "endTime": "3.300s",
+            "startTime": "2.800s",
+            "word": "d"
+        },
+        {
+            "endTime": "4.300s",
+            "startTime": "3.300s",
+            "word": "e"
+        },
+        {
+            "endTime": "5.400s",
+            "startTime": "4.300s",
+            "word": "f"
+        },
+        {
+            "endTime": "5.600s",
+            "startTime": "5.400s",
+            "word": "g"
+        },
+        {
+            "endTime": "7.600s",
+            "startTime": "5.600s",
+            "word": "h"
+        },
+        {
+            "endTime": "8s",
+            "startTime": "7.600s",
+            "word": "i"
+        },
+        {
+            "endTime": "8.900s",
+            "startTime": "8s",
+            "word": "j"
+        },
+        {
+            "endTime": "9.400s",
+            "startTime": "8.900s",
+            "word": "k"
+        },
+        {
+            "endTime": "10.700s",
+            "startTime": "9.400s",
+            "word": "l"
+        },
+        {
+            "endTime": "11s",
+            "startTime": "10.700s",
+            "word": "m"
+        },
+        {
+            "endTime": "11.800s",
+            "startTime": "11s",
+            "word": "n"
+        },
+        {
+            "endTime": "12s",
+            "startTime": "11.800s",
+            "word": "o"
+        },
+        {
+            "endTime": "14s",
+            "startTime": "12s",
+            "word": "p"
+        },
+        {
+            "endTime": "14s",
+            "startTime": "14s",
+            "word": "q"
+        },
+        {
+            "endTime": "15.400s",
+            "startTime": "14s",
+            "word": "r"
+        },
+        {
+            "endTime": "16.300s",
+            "startTime": "15.400s",
+            "word": "s"
+        },
+        {
+            "endTime": "16.800s",
+            "startTime": "16.300s",
+            "word": "t"
+        },
+        {
+            "endTime": "17.500s",
+            "startTime": "16.800s",
+            "word": "u"
+        },
+        {
+            "endTime": "18.200s",
+            "startTime": "17.500s",
+            "word": "v"
+        },
+        {
+            "endTime": "20.700s",
+            "startTime": "18.200s",
+            "word": "w"
+        },
+        {
+            "endTime": "22.100s",
+            "startTime": "20.700s",
+            "word": "x"
+        },
+        {
+            "endTime": "22.800s",
+            "startTime": "22.100s",
+            "word": "y"
+        },
+        {
+            "endTime": "23.600s",
+            "startTime": "22.800s",
+            "word": "z"
+        },
+        {
+            "endTime": "26.200s",
+            "startTime": "25.700s",
+            "word": "a"
+        },
+        {
+            "endTime": "26.900s",
+            "startTime": "26.200s",
+            "word": "b"
+        },
+        {
+            "endTime": "27.600s",
+            "startTime": "26.900s",
+            "word": "c"
+        },
+        {
+            "endTime": "28.200s",
+            "startTime": "27.600s",
+            "word": "d"
+        },
+        {
+            "endTime": "29.100s",
+            "startTime": "28.200s",
+            "word": "e"
+        },
+        {
+            "endTime": "30.300s",
+            "startTime": "29.100s",
+            "word": "f"
+        },
+        {
+            "endTime": "30.500s",
+            "startTime": "30.300s",
+            "word": "g"
+        },
+        {
+            "endTime": "32.500s",
+            "startTime": "30.500s",
+            "word": "h"
+        },
+        {
+            "endTime": "33s",
+            "startTime": "32.500s",
+            "word": "i"
+        },
+        {
+            "endTime": "33.800s",
+            "startTime": "33s",
+            "word": "j"
+        },
+        {
+            "endTime": "34.200s",
+            "startTime": "33.800s",
+            "word": "k"
+        },
+        {
+            "endTime": "35.600s",
+            "startTime": "34.200s",
+            "word": "l"
+        },
+        {
+            "endTime": "35.900s",
+            "startTime": "35.600s",
+            "word": "m"
+        },
+        {
+            "endTime": "36.700s",
+            "startTime": "35.900s",
+            "word": "n"
+        },
+        {
+            "endTime": "37.200s",
+            "startTime": "36.700s",
+            "word": "o"
+        },
+        {
+            "endTime": "38.900s",
+            "startTime": "37.200s",
+            "word": "p"
+        },
+        {
+            "endTime": "39.400s",
+            "startTime": "38.900s",
+            "word": "q"
+        },
+        {
+            "endTime": "40.300s",
+            "startTime": "39.400s",
+            "word": "r"
+        },
+        {
+            "endTime": "41.100s",
+            "startTime": "40.300s",
+            "word": "s"
+        },
+        {
+            "endTime": "41.700s",
+            "startTime": "41.100s",
+            "word": "t"
+        },
+        {
+            "endTime": "42.400s",
+            "startTime": "41.700s",
+            "word": "u"
+        },
+        {
+            "endTime": "43.200s",
+            "startTime": "42.400s",
+            "word": "v"
+        },
+        {
+            "endTime": "45.600s",
+            "startTime": "43.200s",
+            "word": "w"
+        },
+        {
+            "endTime": "47s",
+            "startTime": "45.600s",
+            "word": "x"
+        },
+        {
+            "endTime": "47.700s",
+            "startTime": "47s",
+            "word": "y"
+        },
+        {
+            "endTime": "48.400s",
+            "startTime": "47.700s",
+            "word": "z"
+        }
+    ]
+}
